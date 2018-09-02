@@ -23,14 +23,12 @@ In this assignment we were required to create a command line interface node app 
 ###### User Prompts
 
 ![User Prompt - View 1](https://user-images.githubusercontent.com/37091892/44960413-72104e00-aecd-11e8-8fe2-6d3335503040.JPG)
-![User Prompt - View 2](https://user-images.githubusercontent.com/37091892/44960414-72104e00-aecd-11e8-8061-efe12b27e0c8.JPG)
 
 3. If there is enough of the item in stock, then the customer is given their total order price and the available inventory is updated.
 
 ###### Total Price
 
 ![Total Price - View 1](https://user-images.githubusercontent.com/37091892/44960426-9bc97500-aecd-11e8-942f-27c5ece289ac.JPG)
-![Total Price - View 2](https://user-images.githubusercontent.com/37091892/44960427-9bc97500-aecd-11e8-863b-1516b4bb7619.JPG)
 
 ###### Updated Inventory
 
